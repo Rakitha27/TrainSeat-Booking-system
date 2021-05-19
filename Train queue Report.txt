@@ -1,0 +1,8 @@
+Name : Tharu Silva | Seat no : 1 | Waiting Time : 11
+Name : John Lewis | Seat no : 3 | Waiting Time : 8
+Name : Dillon Perera | Seat no : 15 | Waiting Time : 12
+Name : Marry Parker | Seat no : 20 | Waiting Time : 10
+Name : Sandun Perera | Seat no : 36 | Waiting Time : 9
+Name : Peter Luke | Seat no : 42 | Waiting Time : 13
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Maximum Time : 13 | Minimum Time : 8 | Average Time : 10 | Length of the queue : 6
